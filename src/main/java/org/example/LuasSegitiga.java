@@ -14,6 +14,7 @@ public class LuasSegitiga {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double alas, tinggi;
+        System.out.println("selamat pecah");
         System.out.print("Masukkan panjang alas segitiga: ");
         alas = scanner.nextDouble();
 
